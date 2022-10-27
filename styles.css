@@ -1,0 +1,54 @@
+body {
+  font-family: Didot, serif;
+  font-size: xx-large;
+  background-color: #fdfefd;
+  color: #020202;
+}
+
+wrapper {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+div {
+  padding-bottom: 5px;
+  margin: 0px;
+}
+
+a {
+  color: #121212;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #7f7f7f;
+}
+
+#name {
+  font-size: 130%;
+}
+
+#links {
+  font-size: 70%;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
+#socials a img {
+  width: 30px;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#projects {
+  font-size: 70%;
+}
+
+#projects a {
+  display: block;
+  line-height: 2;
+}
