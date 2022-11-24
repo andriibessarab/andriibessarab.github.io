@@ -5,7 +5,7 @@ body {
   color: #020202;
 }
 
-wrapper {
+.wrapper {
     position: fixed;
     top: 50%;
     left: 50%;
